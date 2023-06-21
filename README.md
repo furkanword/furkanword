@@ -23,6 +23,11 @@
 
 - ⚡ Fun fact **I have fun when I program and learn new things**
 
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/yidUzAGsxDvXJymGdy/giphy.gif" style="width: 1000px;">
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevin arce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin arce" height="30" width="40" /></a>
