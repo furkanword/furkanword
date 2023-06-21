@@ -24,7 +24,7 @@
 - ⚡ Fun fact **I have fun when I program and learn new things**
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/yidUzAGsxDvXJymGdy/giphy.gif" style="width: 700px;">
+<img src="https://media.giphy.com/media/yidUzAGsxDvXJymGdy/giphy.gif" style="width: 500px;">
 </div>
 
 
