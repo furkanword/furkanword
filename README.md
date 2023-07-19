@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 <div id="header" align="center">
-<img> <iframe src="https://giphy.com/embed/5wG4MqYj7Po7gt7uf6" width="446" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/troywakelin-anxiety-inspire-bad-vibes-5wG4MqYj7Po7gt7uf6">via GIPHY</a></p> </img>
-<iframe src="https://giphy.com/embed/5wG4MqYj7Po7gt7uf6" width="160" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/troywakelin-anxiety-inspire-bad-vibes-5wG4MqYj7Po7gt7uf6">via GIPHY</a></p>
 <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" style="width: 600px;">
 </div>
 
