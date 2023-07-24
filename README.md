@@ -1,8 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-
-<img src="https://media.giphy.com/media/xULW8jwFeWCSeil6vK/giphy.gif" style="width: 1000px; height: 300px">
-
+  <img src="https://media.giphy.com/media/xULW8jwFeWCSeil6vK/giphy.gif" style="width: 1000px; height: 300px">
+</div>
 <h1 align="center">Hi 👋, I'm Kevin Arce</h1>
 <h3 align="center">A passionate fullStack developer from colombia, I love code ❤️</h3>
 
