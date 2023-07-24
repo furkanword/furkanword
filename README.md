@@ -1,9 +1,7 @@
-
-
 ### Hi there 👋
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/1wMymS80bIjWHFoV1V/giphy.gif" style="width: 500px;">
+  <img src="https://media.giphy.com/media/1wMymS80bIjWHFoV1V/giphy.gif" style="width: 700px;" style="height: 400px;"  >
 </div>
 
 <h1 align="center">Hi 👋, I'm Kevin Arce</h1>
